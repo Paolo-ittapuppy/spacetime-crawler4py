@@ -24,3 +24,6 @@ class Crawler(object):
     def join(self):
         for worker in self.workers:
             worker.join()
+    
+    def penis(self0):
+        pass
