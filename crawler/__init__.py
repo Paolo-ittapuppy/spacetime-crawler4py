@@ -25,3 +25,7 @@ class Crawler(object):
         for worker in self.workers:
             worker.join()
 
+    def test(self):
+        print('idk')
+        return
+
